@@ -1,0 +1,30 @@
+{
+  "data_source": "real",
+  "n_customers": 9134,
+  "k": 6,
+  "silhouette": 0.16754087982335847,
+  "stability": {
+    "mean_ari": 0.9797735152481039,
+    "min_ari": 0.9616638834688594,
+    "n_boot": 20
+  },
+  "features": [
+    "monthly_premium",
+    "total_claim_amount",
+    "claim_to_premium_ratio",
+    "income",
+    "tenure_months",
+    "months_since_last_claim",
+    "num_policies",
+    "open_complaints",
+    "clv"
+  ],
+  "log_features": [
+    "total_claim_amount",
+    "claim_to_premium_ratio",
+    "income",
+    "clv",
+    "monthly_premium"
+  ],
+  "random_state": 42
+}
