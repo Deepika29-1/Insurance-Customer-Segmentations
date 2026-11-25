@@ -86,7 +86,7 @@ If you want to use the public Auto Insurance Customer Lifetime Value dataset, ob
 
 The pipeline uses this file when it is available. Otherwise, it uses the synthetic dataset.
 
-**Do not upload private or customer-identifiable data to GitHub.**
+
 
 ## Output
 
@@ -99,8 +99,4 @@ The project generates:
 - Saved machine learning models
 - Data for the Streamlit dashboard
 
-## Author
 
-Your Name
-
-GitHub: https://github.com/your-username
