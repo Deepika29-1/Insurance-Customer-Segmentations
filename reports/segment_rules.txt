@@ -1,0 +1,22 @@
+|--- income <= -0.72
+|   |--- open_complaints <= 2.32
+|   |   |--- num_policies <= 1.90
+|   |   |   |--- class: High-Claim Risk Watch
+|   |   |--- num_policies >  1.90
+|   |   |   |--- class: Low-Value Steady (3)
+|   |--- open_complaints >  2.32
+|   |   |--- monthly_premium <= 3.18
+|   |   |   |--- class: Low-Value Steady (2)
+|   |   |--- monthly_premium >  3.18
+|   |   |   |--- class: Core Mid-Value
+|--- income >  -0.72
+|   |--- total_claim_amount <= -0.75
+|   |   |--- open_complaints <= 2.32
+|   |   |   |--- class: Core Mid-Value (2)
+|   |   |--- open_complaints >  2.32
+|   |   |   |--- class: Low-Value Steady (2)
+|   |--- total_claim_amount >  -0.75
+|   |   |--- num_policies <= 0.64
+|   |   |   |--- class: Low-Value Steady
+|   |   |--- num_policies >  0.64
+|   |   |   |--- class: Low-Value Steady (3)

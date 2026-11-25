@@ -1,0 +1,7 @@
+top_coverage,top_vehicle_class,top_sales_channel,top_employment_status,top_policy_type,segment
+Basic (72%),Four-Door Car (63%),Agent (39%),Employed (79%),Personal Auto (76%),Low-Value Steady
+Basic (62%),Four-Door Car (56%),Agent (41%),Employed (66%),Personal Auto (76%),Low-Value Steady (2)
+Basic (60%),Four-Door Car (51%),Agent (39%),Unemployed (100%),Personal Auto (74%),High-Claim Risk Watch
+Basic (41%),SUV (43%),Agent (37%),Employed (76%),Personal Auto (74%),Core Mid-Value
+Basic (64%),Four-Door Car (58%),Agent (36%),Employed (90%),Personal Auto (73%),Core Mid-Value (2)
+Basic (65%),Four-Door Car (57%),Agent (38%),Employed (72%),Personal Auto (74%),Low-Value Steady (3)
